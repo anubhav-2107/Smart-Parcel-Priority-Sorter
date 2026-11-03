@@ -99,6 +99,12 @@ The dispatch summary considers:
 The dispatch plan uses an assumed average vehicle speed of **60 km/hour** and a maximum driving time of **8 hours per day**.
 
 *Note: Dispatch timings are simulated estimates, not actual delivery predictions. The program does not use live traffic or route data.*
+<img width="1912" height="1135" alt="1" src="https://github.com/user-attachments/assets/c8dd59e6-a896-453e-a0bc-92b66a67f589" />
+<img width="832" height="490" alt="2" src="https://github.com/user-attachments/assets/3d149edf-28cf-4710-bdd3-8d02a4ff2ea9" />
+<img width="816" height="495" alt="3" src="https://github.com/user-attachments/assets/752497a4-68f2-4183-84cb-8dda0dec255f" />
+<img width="592" height="560" alt="4" src="https://github.com/user-attachments/assets/d67f288a-cea8-40db-bc52-cc1baf8b26f4" />
+<img width="902" height="665" alt="5" src="https://github.com/user-attachments/assets/959036fc-d97f-41eb-9c98-6a9ee9e836cf" />
+<img width="536" height="282" alt="6" src="https://github.com/user-attachments/assets/34a183c2-5a98-4e10-80d7-d590cf853766" />
 
 ## 🎯 Learning Objectives
 
